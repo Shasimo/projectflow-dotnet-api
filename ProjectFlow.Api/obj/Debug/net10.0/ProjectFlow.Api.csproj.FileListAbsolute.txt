@@ -31,3 +31,4 @@ C:\Users\shans\Documents\c_sharp\ProjectFlow\ProjectFlow.Api\obj\Debug\net10.0\r
 C:\Users\shans\Documents\c_sharp\ProjectFlow\ProjectFlow.Api\obj\Debug\net10.0\ProjectFlow.Api.pdb
 C:\Users\shans\Documents\c_sharp\ProjectFlow\ProjectFlow.Api\obj\Debug\net10.0\ProjectFlow.Api.genruntimeconfig.cache
 C:\Users\shans\Documents\c_sharp\ProjectFlow\ProjectFlow.Api\obj\Debug\net10.0\ref\ProjectFlow.Api.dll
+C:\Users\shans\Documents\c_sharp\ProjectFlow\ProjectFlow.Api\obj\Debug\net10.0\ProjectFlow.Api.sourcelink.json
